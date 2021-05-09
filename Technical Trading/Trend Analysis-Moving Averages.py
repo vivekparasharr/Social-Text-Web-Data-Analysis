@@ -105,3 +105,4 @@ for xx, yy, tt in zip (data[data.flag2!='hold'].index, list(data[data.flag2!='ho
 fig.update_layout(template="plotly_dark", autosize=False, width=900, height=800, margin=dict(l=50, r=50, b=100, t=100, pad=4))
 fig.show()
 
+
